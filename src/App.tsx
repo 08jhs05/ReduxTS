@@ -14,6 +14,7 @@ function App() {
 
   return (
     <div className="App">
+      <h1 className='title'>Redux + TS Practice</h1>
       <div className='moneyCounter'>
         <h1 className='money'>{money}</h1>
         <div className='buttons'>
